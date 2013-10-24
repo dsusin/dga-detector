@@ -1,3 +1,5 @@
+dga-detector
+============
 Original Jaccard algorithm by Gokul Das (study-jaccard-shingling) licensed under the BSD 3-clause license.
 
 Copyright (c) 2012, Gokul Das
@@ -10,9 +12,10 @@ Algorithm applied to the detection of DGA generated domains.
 usage: python jaccard.py [2nd_level_domain]. Ex: "python jaccard.py gloooogle" "python jaccard.py myrahlakboegc"
 
 Original readme:
+===============
 
 study-jaccard-shingling
-==============
+===============
 
 An accademic implementation of Jaccard shingling algorithm. Written in Python 3. The aim is to identify a similar word from a text corpus to a given input word. The text to prepare the corpus is given in one of the source files. For more info, refer:
 
