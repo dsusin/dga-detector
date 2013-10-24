@@ -7,6 +7,7 @@ Modified by Daniel Susín.
 Modified to run with Python 2.7.
 Algorithm applied to the detection of DGA generated domains.
 
+usage: python jaccard.py [2nd_level_domain]. Ex: "python jaccard.py gloooogle" "python jaccard.py myrahlakboegc"
 
 Original readme:
 
