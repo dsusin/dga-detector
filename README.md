@@ -1,3 +1,15 @@
+Original Jaccard algorithm by Gokul Das (study-jaccard-shingling) licensed under the BSD 3-clause license.
+
+Copyright (c) 2012, Gokul Das
+All rights reserved.
+
+Modified by Daniel Susín.
+Modified to run with Python 2.7.
+Algorithm applied to the detection of DGA generated domains.
+
+
+Original readme:
+
 study-jaccard-shingling
 ==============
 
