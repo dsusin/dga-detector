@@ -40,5 +40,5 @@ index_list = [(i, jacc_ind(in_big, corpus[i])) for i in corpus]
 sorted_list = sorted(index_list, key = lambda x : x[1], reverse = True)
 print("\nThe 3 best matches are:")
 for i in range(3): print(sorted_list[i][0]+": "+str(sorted_list[i][1]))
-if sorted_list[i][1]<0.2:
+if sorted_list[0][1]<0.21:
     print "\nProbable DGA generated domain\n"
